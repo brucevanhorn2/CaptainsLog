@@ -1,3 +1,3 @@
 const Profile = require('./Profile');
-
-module.exports = { Profile };
+const LogEntry = require('./LogEntry');
+module.exports = { Profile, LogEntry };
